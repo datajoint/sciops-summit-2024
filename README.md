@@ -1,4 +1,4 @@
-# DataJoint Sciops Summit 2024
+# DataJoint SciOps Summit 2024
 
 **Dates:**  April 15-17, Houston, Texas
 
@@ -12,11 +12,11 @@ This a twin event. The SciOps Summit will be followed by the the [NWB Hackathon]
 
 * 8:00  Coffee, light breakfast
 * 8:30  Opening Talk
-* 9:00  Workshops and Coding Sessions - Projects
+* 9:00  Workshops and Coding Sessions - Projects - Three Tracks
 * 10:20 Cofee break
-* 10:30 Workshops and Coding Sessions 
+* 10:30 Workshops and Coding Sessions - Projects - Three Tracks
 * 12:00 Lunch at DataJoint
-* 1:00 Workshop and Coding Sessions
+* 1:00 Workshop and Coding Sessions - Projects - Three Tracks
 * 2:20 Break
 * 2:30 Project Demos and Updates
 * 4:30 Talks and Discussion
@@ -24,11 +24,11 @@ This a twin event. The SciOps Summit will be followed by the the [NWB Hackathon]
 ## Tuesday, April 16
 * 8:00  Coffee, light breakfast
 * 8:30  Opening Talk
-* 9:00  Workshops and Coding Sessions - Projects
+* 9:00  Workshops and Coding Sessions - Projects - Three Tracks
 * 10:20 Cofee break
-* 10:30 Workshops and Coding Sessions 
+* 10:30 Workshops and Coding Sessions - Projects - Three Traccks
 * 12:00 Lunch at DataJoint
-* 1:00 Workshop and Coding Sessions
+* 1:00 Workshop and Coding Sessions - Projects - Three Tracks
 * 2:20 Break
 * 2:30 Project Demos and Updates
 * 4:30 Talks and Discussion
