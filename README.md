@@ -1,11 +1,8 @@
-# DataJoint Sciops Summit 2024, April 15-17, Houston, Texas
+# DataJoint Sciops Summit 2024
 
-Address: 
-> DataJoint Inc.
->
-> 4265 San Felipe Street, Suite 1025
->
-> Houston, Texas
+**Dates:**  April 15-17, Houston, Texas
+
+**Address:**  DataJoint Inc., 4265 San Felipe Street, Suite 1025 ,Houston, Texas
 
 This a twin event. The SciOps Summit will be followed by the the [NWB Hackathon](https://neurodatawithoutborders.github.io/nwb_hackathons/HCK18_2024_Dev_Hackathon_DataJoint) at the same location.
 
