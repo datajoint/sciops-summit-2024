@@ -16,7 +16,7 @@ DataJoint SciOps Summit - Schedule
 * 2:30 Project Demos and Updates
 * 4:30 Talks and Discussion
 
-## Tuesday
+## Tuesday, April 16
 * 8:00  Coffee, light breakfast
 * 8:30  Opening Talk
 * 9:00  Workshops and Coding Sessions - Projects
