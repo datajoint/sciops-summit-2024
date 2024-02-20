@@ -43,17 +43,26 @@ This a twin event. The SciOps Summit will be followed by the the [NWB Hackathon]
 |------------|----------|--------------------------------|------|------|
 |            |          |                                |      |      |
 | **Start Time** | **End Time** | **Topic** | **Speaker** | **Location** |
+|                |              | **ALL TRACKS** |            |              |
 | 8:00 AM | 8:30 AM | Coffee + light breakfast |      | Training Room - 1015 |
 | 8:30 AM | 8:50 AM | Introductions + SciOps Summit Overview | Dimitri Yatsenko | Training Room - 1015 |
-| 8:50 AM | 9:20 AM | Overview of DataJoint | Dimitri Yatsenko | Training Room - 1015 |
-| 9:20 AM | 10:00 AM | Data Operations in a Science Lab | Thinh Nguyen, Monty Kosma | Training Room - 1015 |
-| 10:00 AM | 10:15 AM | Coffee Break |      | Training Room - 1015 |
+| 8:50 AM | 9:30 AM | Overview of Data Management Landscape | Dimitri Yatsenko, Monty Kosma | Training Room - 1015 |
+|         |         | **Track 1** - DataJoint Elements |        |        |
+| 9:35 AM | 10:30 AM | Behavior Tracking and Segmentation | Milagros Marin | DataJoint HQ - 1025 |
+|         |          | **Track 2** - Scientific Operations |      |      |
+| 9:35 AM | 10:30 AM | Data Operations in a Science Lab | Thinh Nguyen | Training Room - 1015 |
+|         |          |**ALL TRACKS**  |      |      |
+| 10:30 AM | 10:45 AM | Coffee Break |      | Training Room - 1015 |
 | 10:15 AM | 12:00 PM | Workshops and Coding Sessions |     | Training Room - 1015 + DataJoint HQ - 1025 |
 | 12:00 PM | 1:00 PM | Lunch |     | Training Room - 1015 + DataJoint HQ - 1025 |
 | 1:00 PM | 2:20 PM | Workshops and Coding Sessions |     | Training Room - 1015 + DataJoint HQ - 1025 |
 | 2:20 PM | 2:30 PM | Coffee Break |     | Training Room - 1015 |
 | 2:30 PM | 4:00 PM | Workshops and Coding Sessions |     | Training Room - 1015 + DataJoint HQ - 1025 |
-| 4:00 PM | 5:00 PM | Project Updates and Closing Remarks |     | Training Room - 1015 |
+|         |         | **Track 1** - DataJoint Elements |       |      |
+| 4:05 PM | 5:00 PM | Optical Physiology - 3D volume mapping | Dimitri Yatsenko | DataJoint HQ - 1025 |
+|         |         | **Track 2** - Scientific Operations |       |      |
+| 4:05 PM | 5:00 PM | Computational Infrastructure | Speaker TBD | Training Room - 1015 |
+|         |         | **ALL TRACKS** |     |     |
 | 6:00 PM | 8:00 PM | Dinner |    | TBD |
 
 |            |          | **Day 2 - (Tuesday, April 16)** |      |      |
