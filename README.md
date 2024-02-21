@@ -53,7 +53,7 @@ This a twin event. The SciOps Summit will be followed by the the [NWB Hackathon]
 | 9:35 AM | 10:30 AM | Data Operations in a Science Lab | Thinh Nguyen | Training Room - 1015 |
 |         |          |**ALL TRACKS**  |      |      |
 | 10:30 AM | 10:45 AM | Coffee Break |      | Training Room - 1015 |
-| 10:15 AM | 12:00 PM | Workshops and Coding Sessions |     | Training Room - 1015 + DataJoint HQ - 1025 |
+| 10:45 AM | 12:00 PM | Workshops and Coding Sessions |     | Training Room - 1015 + DataJoint HQ - 1025 |
 | 12:00 PM | 1:00 PM | Lunch |     | Training Room - 1015 + DataJoint HQ - 1025 |
 | 1:00 PM | 2:20 PM | Workshops and Coding Sessions |     | Training Room - 1015 + DataJoint HQ - 1025 |
 | 2:20 PM | 2:30 PM | Coffee Break |     | Training Room - 1015 |
@@ -68,11 +68,16 @@ This a twin event. The SciOps Summit will be followed by the the [NWB Hackathon]
 |            |          | **Day 2 - (Tuesday, April 16)** |      |      |
 |------------|----------|---------------------------------|------|------|
 |            |          |                                 |      |      |
-| **Start Time** | **End Time** | **Topic** | **Speaker** | **Location** |
+| **Start Time** | **End Time** | **Topic** | **Speaker** | **Location** 
 | 8:00 AM | 8:30 AM | Coffee + light breakfast |      | Training Room - 1015 |
-| 8:30 AM | 10:15 AM | Workshops and Coding Sessions |     | Training Room - 1015 + DataJoint HQ - 1025 |
-| 10:00 AM | 10:15 AM | Coffee Break |      | 10th floor Training Room |
-| 10:15 AM | 12:00 PM | Workshops and Coding Sessions |     | Training Room - 1015 + DataJoint HQ - 1025 |
+|                |              | **Track 1** - DataJoint Elements |        |              |
+| 8:30 AM | 9:25 AM | DataJoint & SpikeInterface | Speaker TBD | DataJoint HQ - 1025 |
+|         |         | **Track 2** - Scientific Operations |        |        |
+| 8:30 AM | 9:25 AM | Data Pipeline Orchestration | Speaker TBD | Training Room - 1015 |
+|         |         | **ALL TRACKS** |        |        |
+| 9:30 AM | 10:30 AM | Workshops and Coding Sessions |     | Training Room - 1015 + DataJoint HQ - 1025 |
+| 10:30 AM | 10:45 AM | Coffee Break |      | 10th floor Training Room |
+| 10:45 AM | 12:00 PM | Workshops and Coding Sessions |     | Training Room - 1015 + DataJoint HQ - 1025 |
 | 12:00 PM | 1:00 PM | Lunch |     | Training Room - 1015 + DataJoint HQ - 1025 |
 | 1:00 PM | 2:20 PM | Workshops and Coding Sessions |     | Training Room - 1015 + DataJoint HQ - 1025 |
 | 2:20 PM | 2:30 PM | Coffee Break |     | 10th floor Training Room |
