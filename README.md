@@ -26,8 +26,8 @@ This a twin event. The SciOps Summit will be followed by the the [NWB Hackathon]
 | 8:30 - 8:50 AM  | Introductions + SciOps Summit Overview        | Dimitri Yatsenko                 | Training Room - 1015            |
 | 8:50 - 9:30 AM  | Overview of Data Management Landscape         | Dimitri Yatsenko, Monty Kosma    | Training Room - 1015            |
 | 9:30 - 9:40 AM  | Coffee Break                                  |                                  | Training Room - 1015            |
-| 9:45 - 10:40 AM | Principles of Database Programming            | Ethan Ho                         | Training Room - 1015             |
-| 10:45 - 12:00 PM| Workshops and Coding Sessions                 |                                  | Training Room - 1015 + DataJoint HQ - 1025 |
+| 9:45 - 11:15 AM | Principles of Database Programming            | Ethan Ho                         | Training Room - 1015            |
+| 11:15 - 12:00 PM| Form groups / plan for coding sessions        |                                  | Training Room - 1015 + DataJoint HQ - 1025 |
 | 12:00 - 1:00 PM | Lunch                                         |                                  | Training Room - 1015 + DataJoint HQ - 1025 |
 | 1:00 - 2:20 PM  | Workshops and Coding Sessions                 |                                  | Training Room - 1015 + DataJoint HQ - 1025 |
 | 2:20 - 2:30 PM  | Coffee Break                                  |                                  | Training Room - 1015            |
@@ -49,4 +49,3 @@ This a twin event. The SciOps Summit will be followed by the the [NWB Hackathon]
 | 2:20 - 2:30 PM  | Coffee Break                                  |                                  | 10th floor Training Room        |
 | 2:30 - 4:00 PM  | Project Presentations                         |                                  | Training Room - 1015            |
 | 4:00 - 5:00 PM  | DataJoint Works & What's Next?                | Dimitri Yatsenko                 | Training Room - 1015            |
-| 5:30 - 8:00 PM  | DataJoint + NWB Mixer                         |                                  | TBD                             |
