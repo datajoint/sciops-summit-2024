@@ -1,3 +1,7 @@
+> ⚠️ **This repository is archived and no longer maintained.**
+> Summit 2024 schedule and materials.
+> For current DataJoint development, see [datajoint-python](https://github.com/datajoint/datajoint-python).
+
 # DataJoint SciOps Summit 2024
 
 #### **Dates:**  
